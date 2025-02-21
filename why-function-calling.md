@@ -11,5 +11,7 @@ Research from the paper [Language Models are Few-Shot Learners" (Brown et al., 2
 - 5-digit arithmetic: 9% accuracy
 
 ### 2. The Math Problem with GPT4 model:
+<img width="200" src="images/gpt4-arithmatic.png" alt="gpt-airthmatic-with-python-tool">
+
 
 
