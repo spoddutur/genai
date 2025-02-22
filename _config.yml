@@ -1,2 +1,6 @@
 title: Sruthi Poddutur
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: poole/lanyon
+title: My Blog
+description: "A clean and minimalist Jekyll theme"
+show_downloads: false
